@@ -4,10 +4,10 @@
 
 
 
-Pacman is an exercise in which an animation of pacman bounces off the wall boundaries and heads in the opposite direction, opening and closing its mouth.
+Eyes is an exercise in which a pair of eyes loaded in the browser screen follows your mouse cursor. 
 ## How to Run
-Make sure pacman.js, index.html, and PNG images are on your local computer. Next, you can drag index.html into your browser and you should see pacman go.
+Make sure eyes.html, eyes.css and PNG image are on your local computer. Next, you can drag index.html into your browser and you should see eyes in the middle of the browser screen.
 ## Future Improvements
-I would like to code some user functions where the user can control pacman around a browser screen. The control would be the arrow keys and would need new code and photos for pacman to go up and down. This would also require code for top and bottom wall boundaries.
+I would lke to code a mouse click event. In this function, a click of the mouse would cause the eyes to stop and "stare" at that point of click. I would then set a setInterval function that released the stare from the eyes and allowed them to once again follow the cursor. 
 ## License
-license from MIT. Full license information file found in Pacman repo.
+license from MIT. Full license information file found in Eyes repo.
